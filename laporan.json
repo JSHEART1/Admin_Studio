@@ -1,0 +1,140 @@
+{
+  "Boking" : {
+    "-MAH8WuikhaJyDXkHJCD" : {
+      "bocit" : "0",
+      "getNama" : "Nama : kufaku\nStudio\nSewa Stik Drum\n",
+      "id" : "-MAH8WuikhaJyDXkHJCD",
+      "jumlah" : "1",
+      "kedua" : "0",
+      "menit" : "1",
+      "nama" : "kufaku",
+      "price" : "Harga : Rp.55000",
+      "tengah" : ":",
+      "tglboking" : "24/06/2020",
+      "wib" : "WIB"
+    },
+    "-MAHEC_TORUgzRwPwNg6" : {
+      "bocit" : "0",
+      "getNama" : "Nama : skakak\nStudio\nSewa Stik Drum\nRecording",
+      "id" : "-MAHEC_TORUgzRwPwNg6",
+      "jumlah" : "2",
+      "kedua" : "0",
+      "menit" : "1",
+      "nama" : "skakak",
+      "price" : "Harga : Rp.310000",
+      "tengah" : ":",
+      "tglboking" : "24/06/2020",
+      "wib" : "WIB"
+    },
+    "-MAxlpZpkPclW4xHpzm8" : {
+      "getNama" : "Nama : admin\nStudio\nSewa Stik Drum\n",
+      "id" : "-MAxlpZpkPclW4xHpzm8",
+      "jumlah" : "2",
+      "menit" : "1",
+      "nama" : "admin",
+      "price" : "Harga : Rp.110000",
+      "tglboking" : "24/06/202",
+      "wib" : "WIB"
+    },
+    "-MB-XBKogc098euWlNak" : {
+      "getNama" : "Nama : \n\n\n",
+      "id" : "-MB-XBKogc098euWlNak",
+      "jumlah" : "0",
+      "menit" : "0",
+      "nama" : "",
+      "price" : "Harga : Rp.0",
+      "tglboking" : "",
+      "wib" : "WIB"
+    },
+    "-MCLcFq8_E8QrE8623l3" : {
+      "getNama" : "Nama : chen\nStudio\nSewa Stik Drum\n",
+      "id" : "-MCLcFq8_E8QrE8623l3",
+      "jumlah" : "14",
+      "menit" : "12",
+      "nama" : "chen",
+      "price" : "Harga : Rp.770000",
+      "tglboking" : "13/08/2020",
+      "wib" : "WIB"
+    },
+    "-MCLdT2DUzfYlnCxyavQ" : {
+      "getNama" : "Nama : fandyband\nStudio\nSewa Stik Drum\n",
+      "id" : "dodi",
+      "jumlah" : "13",
+      "menit" : "11",
+      "nama" : "fandyband",
+      "price" : "Harga : Rp.715000",
+      "tglboking" : "13/08/2020",
+      "wib" : "WIB"
+    },
+    "-MDKZrzktIRZDbKSSMhP" : {
+      "getNama" : "Nama : shahsh\nStudio\nSewa Stik Drum\n",
+      "id" : "ade",
+      "jumlah" : "1",
+      "menit" : "1",
+      "nama" : "shahsh",
+      "price" : "Harga : Rp.55000",
+      "tglboking" : "27/07/2020",
+      "wib" : "WIB"
+    },
+    "-ME5_3YcBzGJY5SwWtEP" : {
+      "getNama" : "Nama : Ada band\nStudio\nSewa Stik Drum\n",
+      "id" : "-ME5_3YcBzGJY5SwWtEP",
+      "jumlah" : "2",
+      "menit" : "5",
+      "nama" : "Ada band",
+      "price" : "Harga : Rp.110000",
+      "tglboking" : "25/07/2020",
+      "wib" : "WIB"
+    },
+    "-MEQjWix3zT219sCKGBv" : {
+      "getNama" : "Nama : kufaku\nStudio\nSewa Stik Drum\n",
+      "id" : "-MEQjWix3zT219sCKGBv",
+      "jumlah" : "1",
+      "menit" : "2",
+      "nama" : "kufaku",
+      "price" : "Harga : Rp.55000",
+      "tglboking" : "11/08/2020",
+      "wib" : "WIB"
+    },
+    "-MEQk_J8m3qwPchU96yB" : {
+      "getNama" : "Nama : langsung\nStudio\nSewa Stik Drum\nRecording",
+      "id" : "-MEQk_J8m3qwPchU96yB",
+      "jumlah" : "1",
+      "menit" : "1",
+      "nama" : "langsung",
+      "price" : "Harga : Rp.155000",
+      "tglboking" : "",
+      "wib" : "WIB"
+    },
+    "-MFE4P4_xw21eE2V_qZr" : {
+      "getNama" : "Nama :  sahrul\nStudio\nSewa Stik Drum\n",
+      "id" : "-MFE4P4_xw21eE2V_qZr",
+      "jumlah" : "2",
+      "menit" : "1",
+      "nama" : " sahrul",
+      "price" : "Harga : Rp.110000",
+      "tglboking" : "7/14/2020",
+      "wib" : "WIB"
+    },
+    "-MFQUoJvFAXbbVXn_q8V" : {
+      "getNama" : "Nama : \nStudio\n\n",
+      "id" : "-MFQUoJvFAXbbVXn_q8V",
+      "jumlah" : "1",
+      "menit" : "10",
+      "nama" : "",
+      "price" : "Harga : Rp.500000",
+      "tglboking" : "7/23/2020",
+      "wib" : "WIB"
+    }
+  },
+  "Review" : {
+    "-MCRnHzkqIlPxpFC2MyQ" : {
+      "id" : "-MCRnHzkqIlPxpFC2MyQ",
+      "komentar" : "bagus"
+    },
+    "-MEQjhj4qjmB48uoLGz9" : {
+      "id" : "-MEQjhj4qjmB48uoLGz9",
+      "komentar" : "bagus"
+    }
+  }
+}
